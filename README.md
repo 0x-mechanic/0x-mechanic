@@ -1,6 +1,7 @@
 # 0xmechanic | Security Researcher
 
 Smart contract security researcher with 1 year of experience. Experienced in Solidity and Rust across DeFi protocols, lending markets, and cross-chain bridges. 
+
 **Reputation score of 72 on [Cantina](https://cantina.xyz/u/0xmechanic).**
 
 ---
